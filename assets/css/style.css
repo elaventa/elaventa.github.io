@@ -1198,8 +1198,7 @@ section {
 .contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #fff;
-  color: #4a099e;
+  color: #fff;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1208,11 +1207,13 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  border: 1px solid #4a099e;
+  background: #4a099e;
+  
 }
 .contact .social-links a:hover {
-  background: #4a099e;
-  color: #fff;
+  border: 1px solid #4a099e;
+  background: transparent;
+   color: #4a099e;
 }
 .contact .info {
   color: #444444;
@@ -1383,3 +1384,4 @@ section {
 #footer .footer-links a:hover {
   color: #4a099e;
 }
+
