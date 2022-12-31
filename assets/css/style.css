@@ -316,14 +316,15 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   display: inline-block;
   padding: 10px 30px;
-  border-radius: 50px;
+  /* border-radius: 50px; */
   transition: 0.5s;
-  color: #4a099e;
+  color: #ffffff;
+  background-color: #4a099e;
   border: 2px solid #4a099e;
 }
 #hero .btn-get-started:hover {
-  background: #4a099e;
-  color: #fff;
+  background: transparent;
+  color: #4a099e;
 }
 #hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
