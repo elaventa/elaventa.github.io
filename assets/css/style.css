@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: 	#25D366;
+  background: 	#4a099e;
   width: 80px;
   height: 80px;
   border-radius: 50%;
@@ -302,7 +302,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: black;
+  color: #4a099e;
 }
 #hero h2 {
   color: #484848;
@@ -409,7 +409,7 @@ section {
   font-weight: bold;
   text-transform: uppercase;
   position: relative;
-  color: #222222;
+  color: #4a099e;
 }
 .section-title h2::before, .section-title h2::after {
   content: "";
