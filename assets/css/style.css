@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #57aae1;
+  background: #4a099e;
   color: #fff;
 }
 .back-to-top.active {
@@ -432,7 +432,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  background: #f3f9fd;
+  background: #e1e6fa;
   padding: 10px 0;
   text-align: center;
 }
