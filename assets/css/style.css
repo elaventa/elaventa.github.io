@@ -1390,7 +1390,7 @@ ul {
   list-style: none; /* Remove default bullets */
 }
 
-ul li::before {
+.services-list::before {
   content: "\2022";  
   color: #4a099e; 
   font-weight: bold; 
@@ -1398,4 +1398,8 @@ ul li::before {
   width: 1em;
   margin-left: -1em; 
   font-size: 20px;
+}
+
+.services-list{
+  margin: 5px 0;
 }
